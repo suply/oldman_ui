@@ -1,4 +1,4 @@
-# oldMan-UI Powered By Vue 3.0
+# oldMan-UI Powered By Vue3.0
 
 [点击查看官网](https://frankfang.gitee.io/gulu-ui-website-1/#/)
 
